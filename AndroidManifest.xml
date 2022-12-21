@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
-<manifest xmlns:android='http://schemas.android.com/apk/res/android' package='.GluonSingleViewProject' android:versionCode='1' android:versionName='1.0'>
+<manifest xmlns:android='http://schemas.android.com/apk/res/android' package='.testGluonFxGradlePlugin' android:versionCode='1' android:versionName='1.0'>
     <supports-screens android:xlargeScreens="true"/>
     <uses-permission android:name="android.permission.INTERNET"/>
     
-    <application android:label='Gluon-SingleViewProject' android:icon="@mipmap/ic_launcher">
+    <application android:label='testGluonFxGradlePlugin' android:icon="@mipmap/ic_launcher">
         <activity android:name='com.gluonhq.helloandroid.MainActivity'
                   android:exported="true"
                   android:configChanges="orientation|keyboardHidden">
